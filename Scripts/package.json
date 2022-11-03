@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "json-pick-keys": "^0.1.1",
     "request": "^2.88.2",
     "xlsx": "^0.18.5"
   }
