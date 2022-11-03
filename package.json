@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@formulajs/formulajs": "^3.1.7",
+    "js-xlsx": "^0.8.22",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
